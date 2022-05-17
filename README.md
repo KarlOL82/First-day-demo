@@ -1,2 +1,2 @@
 # First-day-demo
-pithy-description
+pithy-description-demo
